@@ -1,0 +1,104 @@
+
+.App{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  border: 10px none black;
+}
+
+
+.one
+{
+  background-color: yellowgreen;
+  width: 250px;
+  height: 100px;
+  border: 10px none black;
+
+}
+.two
+{
+  background-color: red;
+  width: 150px;
+  height: 100px;
+  border: 10px none black;
+}
+.three
+{
+  background-color: yellowgreen;
+  width: 250px;
+  height: 100px;
+  border: 10px none black;
+
+}
+
+.App2
+{
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  gap: 110px;
+  border: 10px none black;
+}
+.four
+{
+  background-color: blue;
+  width: 150px;
+  height: 150px;
+  border: 10px none black;
+  align-items: end;
+  padding: 1px;
+  border: 10px none black;
+}
+.five
+{
+  background-color: yellow;
+  width: 150px;
+  height: 150px;
+  border: 10px none black;
+  border-radius: 100px;
+
+
+}
+.six
+{
+  background-color: blue;
+  width: 150px;
+  height: 150px;
+  border: 10px none black;
+  align-items: end;
+}
+
+.App3{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  border: 10px none black;
+}
+
+
+.eight
+{
+  background-color: yellowgreen;
+  width: 250px;
+  height: 100px;
+  border: 10px none black;
+
+}
+.nine
+{
+  background-color: red;
+  width: 150px;
+  height: 100px;
+  border: 10px none black;
+}
+.ten
+{
+  background-color: yellowgreen;
+  width: 250px;
+  height: 100px;
+  border: 10px none black;
+
+}
+body{
+  margin-top:200px;
+}
